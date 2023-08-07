@@ -1,0 +1,5 @@
+homepage: "https://www.mparticle.com"
+documentation: "https://docs.mparticle.com/developers/"
+versions:
+  - sha: 58b38ec803e699b9269e5c9cb08a7fb86c9e786d
+    changeNotes: Initial Release
