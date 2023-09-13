@@ -1,5 +1,5 @@
 homepage: "https://www.mparticle.com"
 documentation: "https://docs.mparticle.com/developers/sdk/web/gtm-templates/#idsync-template"
 versions:
-  - sha: 58b38ec803e699b9269e5c9cb08a7fb86c9e786d
+  - sha: af8a284b1991c413f8b0d4a8e0d8cd3bf051d88f
     changeNotes: Initial Release
